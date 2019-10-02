@@ -220,7 +220,7 @@
     "jest-junit": "5.1.0",
     "prettier": "1.13.6",
     "react": "16.4.1",
-    "react-test-renderer": "16.4.1",
+    "react-test-renderer": "16.10.1",
     "shelljs": "^0.7.8",
     "sinon": "^2.2.0"
   },
